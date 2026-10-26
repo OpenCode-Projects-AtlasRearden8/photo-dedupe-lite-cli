@@ -1,0 +1,5 @@
+{
+  "keep": "earliest",
+  "preferred_names": ["edited", "best", "favorite", "original"],
+  "min_size_bytes": 0
+}
